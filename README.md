@@ -9,3 +9,7 @@ I start learning Tensorflow on 2 Jan 2024 and will write down the summary of the
 ***4 Jan 2024:*** I did not learn a lot of topics today because I had some tasks to do but on this day I had to learn the concept and how to create my own CNN(Convolutional Neural Network), and it was so amazing!
 
 ***5 Jan 2024:*** Long time no see! 2 days before I needed to spend my time preparing myself for studies in the next semester that will start tomorrow but today I learned a small topic about the Pretraiend model. I think it's very helpful.
+
+***6 Jan 2024:*** Eventually I finished this course thanks to a useful video from freeCodeCamp.org I have learned quite of things that helped me understand TensorFlow.
+
+Thanks! for reading my little diary
